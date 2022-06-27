@@ -1,0 +1,3 @@
+cosas pendientes .
+incorporar imagenes y texto 
+pie de pagina (footer)
