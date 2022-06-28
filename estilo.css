@@ -89,7 +89,7 @@ header {
     height: 500px;
     position: relative;
     top: 80px;
-    background-image: url(img/CAMIÓN-VOLCADOR.jpg);
+    background-image: url(imagenes/camionvolcador.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -136,7 +136,7 @@ header {
 /*pie de pagina*/
 
 #footer {
-padding: 2cm;
+padding: 3cm;
 font-size: 16pt;
 text-align: left;
 text-shadow: rgba (0,0,255,1) -1px -2px 0.5em;
